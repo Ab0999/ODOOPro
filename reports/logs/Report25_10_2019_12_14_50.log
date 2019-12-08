@@ -1,0 +1,15 @@
+2019-10-25 00:14:50,851 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-10-25 00:14:56,564 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-10-25 00:15:00,816 [main] INFO com.odoo.webutils.MyTestListener - validLoginTest script execution starts
+2019-10-25 00:15:00,913 [main] INFO com.odoo.webutils.MyTestListener - validLoginTest script execution starts
+2019-10-25 00:15:17,562 [main] FATAL com.odoo.webutils.MyTestListener - no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:58652}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: f7075022a528820ac486305566748098
+*** Element info: {Using=xpath, value=//input[@id='login']}
+2019-10-25 00:15:17,624 [main] WARN com.odoo.webutils.MyTestListener - validLoginTest script is failed
+2019-10-25 00:15:17,633 [main] WARN com.odoo.webutils.MyTestListener - validLoginTest script is failed

@@ -1,0 +1,18 @@
+2019-11-02 17:50:58,226 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-11-02 17:50:59,479 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-11-02 17:51:09,901 [main] INFO com.odoo.webutils.MyTestListener - CreateSalesTeam script execution starts
+2019-11-02 17:52:40,389 [main] FATAL com.odoo.webutils.MyTestListener - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@name='alias_user_id']"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:54241}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 4b57db04d145b0a070f25cba7f9dc116
+*** Element info: {Using=xpath, value=//input[@name='alias_user_id']}
+2019-11-02 17:52:40,433 [main] WARN com.odoo.webutils.MyTestListener - CreateSalesTeam script is failed
+2019-11-02 17:52:41,032 [main] INFO com.odoo.webutils.MyTestListener - CreateSalesTeam Failed & Screenshot has been taken 
+2019-11-02 17:52:43,823 [main] INFO com.odoo.webutils.MyTestListener - Browser Closed
+2019-11-02 17:52:44,468 [main] INFO com.odoo.webutils.MyTestListener - ExcelReport generated
+2019-11-02 17:52:44,468 [main] INFO com.odoo.webutils.MyTestListener - Framework execution Time Taken: 111.0seconds
+2019-11-02 17:52:44,468 [main] INFO com.odoo.webutils.MyTestListener - Framework execution ends

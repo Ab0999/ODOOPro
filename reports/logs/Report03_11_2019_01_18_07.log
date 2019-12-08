@@ -1,0 +1,16 @@
+2019-11-03 13:18:07,476 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-11-03 13:18:08,794 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-11-03 13:18:14,580 [main] INFO com.odoo.webutils.MyTestListener - CreateSalesTeam script execution starts
+2019-11-03 13:19:33,926 [main] FATAL com.odoo.webutils.MyTestListener - element click intercepted: Element <button class="btn btn-primary o_form_button_save" type="button" accesskey="s">...</button> is not clickable at point (41, 106). Other element would receive the click: <div role="dialog" class="modal o_technical_modal show" tabindex="-1" data-backdrop="static" id="modal_159" open="open" aria-modal="true" style="display: block;">...</div>
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:63765}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 000ed7c49645a4809ae13367d30dd635
+2019-11-03 13:19:33,991 [main] WARN com.odoo.webutils.MyTestListener - CreateSalesTeam script is failed
+2019-11-03 13:19:34,474 [main] INFO com.odoo.webutils.MyTestListener - CreateSalesTeam Failed & Screenshot has been taken 
+2019-11-03 13:19:38,354 [main] INFO com.odoo.webutils.MyTestListener - Browser Closed
+2019-11-03 13:19:40,326 [main] INFO com.odoo.webutils.MyTestListener - ExcelReport generated
+2019-11-03 13:19:40,327 [main] INFO com.odoo.webutils.MyTestListener - Framework execution Time Taken: 98.0seconds
+2019-11-03 13:19:40,327 [main] INFO com.odoo.webutils.MyTestListener - Framework execution ends

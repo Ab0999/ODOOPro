@@ -1,0 +1,87 @@
+2019-10-30 15:57:06,425 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-10-30 15:57:14,348 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-10-30 15:57:23,694 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script execution starts
+2019-10-30 15:57:39,103 [main] FATAL com.odoo.webutils.MyTestListener - no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='CRM']"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61637}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 06f0552ca612e67513c2024c1bb97b8a
+*** Element info: {Using=xpath, value=//div[text()='CRM']}
+2019-10-30 15:57:39,193 [main] WARN com.odoo.webutils.MyTestListener - createCustomer script is failed
+2019-10-30 15:57:39,699 [main] INFO com.odoo.webutils.MyTestListener - createCustomer Failed & Screenshot has been taken 
+2019-10-30 15:57:40,767 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script execution starts
+2019-10-30 15:57:40,794 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script is skipped
+2019-10-30 15:57:40,801 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script execution starts
+2019-10-30 15:57:40,828 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script is skipped
+2019-10-30 15:57:41,600 [main] INFO com.odoo.webutils.MyTestListener - editCustomer script execution starts
+2019-10-30 15:58:05,981 [main] FATAL com.odoo.webutils.MyTestListener - no such element: Unable to locate element: {"method":"xpath","selector":" //strong[contains(@class,'kanban_record')]/span[contains(text(),'Admin53')]"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61637}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 06f0552ca612e67513c2024c1bb97b8a
+*** Element info: {Using=xpath, value= //strong[contains(@class,'kanban_record')]/span[contains(text(),'Admin53')]}
+2019-10-30 15:58:06,047 [main] WARN com.odoo.webutils.MyTestListener - editCustomer script is failed
+2019-10-30 15:58:06,506 [main] INFO com.odoo.webutils.MyTestListener - editCustomer Failed & Screenshot has been taken 
+2019-10-30 15:58:08,760 [main] INFO com.odoo.webutils.MyTestListener - createCustomerImport script execution starts
+2019-10-30 15:59:03,069 [main] FATAL com.odoo.webutils.MyTestListener - no such element: Unable to locate element: {"method":"xpath","selector":"//li//span[contains(text(),'valid.')]"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61637}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 06f0552ca612e67513c2024c1bb97b8a
+*** Element info: {Using=xpath, value=//li//span[contains(text(),'valid.')]}
+2019-10-30 15:59:03,127 [main] WARN com.odoo.webutils.MyTestListener - createCustomerImport script is failed
+2019-10-30 15:59:03,642 [main] INFO com.odoo.webutils.MyTestListener - createCustomerImport Failed & Screenshot has been taken 
+2019-10-30 15:59:05,190 [main] INFO com.odoo.webutils.MyTestListener - CreateDuplicateCustomer script execution starts
+2019-10-30 15:59:09,922 [main] FATAL com.odoo.webutils.MyTestListener - no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='CRM']"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61637}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 06f0552ca612e67513c2024c1bb97b8a
+*** Element info: {Using=xpath, value=//div[text()='CRM']}
+2019-10-30 15:59:09,953 [main] WARN com.odoo.webutils.MyTestListener - CreateDuplicateCustomer script is failed
+2019-10-30 15:59:10,463 [main] INFO com.odoo.webutils.MyTestListener - CreateDuplicateCustomer Failed & Screenshot has been taken 
+2019-10-30 15:59:11,988 [main] INFO com.odoo.webutils.MyTestListener - DeleteDuplicateCustomer script execution starts
+2019-10-30 15:59:31,114 [main] FATAL com.odoo.webutils.MyTestListener - no such element: Unable to locate element: {"method":"xpath","selector":" //strong[contains(@class,'kanban_record')]/span[contains(text(),'Admin53 (copy)')]"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61637}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 06f0552ca612e67513c2024c1bb97b8a
+*** Element info: {Using=xpath, value= //strong[contains(@class,'kanban_record')]/span[contains(text(),'Admin53 (copy)')]}
+2019-10-30 15:59:31,212 [main] WARN com.odoo.webutils.MyTestListener - DeleteDuplicateCustomer script is failed
+2019-10-30 15:59:31,671 [main] INFO com.odoo.webutils.MyTestListener - DeleteDuplicateCustomer Failed & Screenshot has been taken 
+2019-10-30 15:59:32,928 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllCustomer script execution starts
+2019-10-30 15:59:53,924 [main] FATAL com.odoo.webutils.MyTestListener - no such element: Unable to locate element: {"method":"xpath","selector":"//div[contains(@class,'dropdown')]/button[contains(text(),'Action')]"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61637}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 06f0552ca612e67513c2024c1bb97b8a
+*** Element info: {Using=xpath, value=//div[contains(@class,'dropdown')]/button[contains(text(),'Action')]}
+2019-10-30 15:59:54,012 [main] WARN com.odoo.webutils.MyTestListener - DeleteAllCustomer script is failed
+2019-10-30 15:59:54,434 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllCustomer Failed & Screenshot has been taken 
+2019-10-30 15:59:54,925 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllOpportunities script execution starts
+2019-10-30 15:59:54,995 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllOpportunities script is skipped
+2019-10-30 15:59:55,974 [main] INFO com.odoo.webutils.MyTestListener - CreateSalesTeam script execution starts
+2019-10-30 16:00:04,495 [main] WARN com.odoo.webutils.MyTestListener - CreateSalesTeam script is failed
+2019-10-30 16:00:05,562 [main] INFO com.odoo.webutils.MyTestListener - CreateSalesTeam Failed & Screenshot has been taken 
+2019-10-30 16:00:08,838 [main] INFO com.odoo.webutils.MyTestListener - Browser Closed
+2019-10-30 16:00:09,798 [main] INFO com.odoo.webutils.MyTestListener - ExcelReport generated
+2019-10-30 16:00:09,799 [main] INFO com.odoo.webutils.MyTestListener - Framework execution Time Taken: 183.0seconds
+2019-10-30 16:00:09,799 [main] INFO com.odoo.webutils.MyTestListener - Framework execution ends

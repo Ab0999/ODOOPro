@@ -1,0 +1,28 @@
+2019-10-27 01:30:21,175 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-10-27 01:30:28,848 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-10-27 01:30:34,819 [main] INFO com.odoo.webutils.MyTestListener - validLoginTest script execution starts
+2019-10-27 01:30:51,590 [main] INFO com.odoo.webutils.MyTestListener - validLoginTest script is passed
+2019-10-27 01:30:52,709 [main] INFO com.odoo.webutils.MyTestListener - InvalidLoginTest script execution starts
+2019-10-27 01:30:56,048 [main] INFO com.odoo.webutils.MyTestListener - InvalidLoginTest script is passed
+2019-10-27 01:30:57,200 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script execution starts
+2019-10-27 01:31:44,077 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script is passed
+2019-10-27 01:31:44,971 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script execution starts
+2019-10-27 01:32:35,825 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script is passed
+2019-10-27 01:32:36,359 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script execution starts
+2019-10-27 01:33:11,059 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script is passed
+2019-10-27 01:33:11,698 [main] INFO com.odoo.webutils.MyTestListener - editCustomer script execution starts
+2019-10-27 01:34:07,104 [main] INFO com.odoo.webutils.MyTestListener - editCustomer script is passed
+2019-10-27 01:34:07,576 [main] INFO com.odoo.webutils.MyTestListener - createCustomerImport script execution starts
+2019-10-27 01:35:11,065 [main] INFO com.odoo.webutils.MyTestListener - createCustomerImport script is passed
+2019-10-27 01:35:11,646 [main] INFO com.odoo.webutils.MyTestListener - CreateDuplicateCustomer script execution starts
+2019-10-27 01:35:55,452 [main] INFO com.odoo.webutils.MyTestListener - CreateDuplicateCustomer script is passed
+2019-10-27 01:35:55,947 [main] INFO com.odoo.webutils.MyTestListener - DeleteDuplicateCustomer script execution starts
+2019-10-27 01:36:31,099 [main] INFO com.odoo.webutils.MyTestListener - DeleteDuplicateCustomer script is passed
+2019-10-27 01:36:32,216 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllCustomer script execution starts
+2019-10-27 01:36:57,014 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllCustomer script is passed
+2019-10-27 01:36:57,747 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllOpportunities script execution starts
+2019-10-27 01:37:29,274 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllOpportunities script is passed
+2019-10-27 01:37:31,610 [main] INFO com.odoo.webutils.MyTestListener - Browser Closed
+2019-10-27 01:37:34,672 [main] INFO com.odoo.webutils.MyTestListener - ExcelReport generated
+2019-10-27 01:37:34,672 [main] INFO com.odoo.webutils.MyTestListener - Framework execution Time Taken: 433.0seconds
+2019-10-27 01:37:34,672 [main] INFO com.odoo.webutils.MyTestListener - Framework execution ends

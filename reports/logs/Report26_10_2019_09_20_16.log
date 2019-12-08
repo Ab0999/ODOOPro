@@ -1,0 +1,21 @@
+2019-10-26 21:20:17,161 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-10-26 21:20:25,324 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-10-26 21:20:29,436 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script execution starts
+2019-10-26 21:21:22,367 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script is passed
+2019-10-26 21:21:22,993 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script execution starts
+2019-10-26 21:22:14,873 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script is passed
+2019-10-26 21:22:15,928 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script execution starts
+2019-10-26 21:22:39,617 [main] FATAL com.odoo.webutils.MyTestListener - stale element reference: element is not attached to the page document
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:52322}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 54287504a4816204c2d9bc59857cd981
+2019-10-26 21:22:39,651 [main] WARN com.odoo.webutils.MyTestListener - ShiftPipeline script is failed
+2019-10-26 21:22:40,395 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline Failed & Screenshot has been taken 
+2019-10-26 21:22:42,931 [main] INFO com.odoo.webutils.MyTestListener - Browser Closed
+2019-10-26 21:22:43,328 [main] INFO com.odoo.webutils.MyTestListener - ExcelReport generated
+2019-10-26 21:22:43,328 [main] INFO com.odoo.webutils.MyTestListener - Framework execution Time Taken: 146.0seconds
+2019-10-26 21:22:43,328 [main] INFO com.odoo.webutils.MyTestListener - Framework execution ends

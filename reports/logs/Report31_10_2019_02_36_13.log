@@ -1,0 +1,9 @@
+2019-10-31 14:36:14,084 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-10-31 14:36:22,585 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-10-31 14:36:34,316 [main] INFO com.odoo.webutils.MyTestListener - CreateSalesTeam script execution starts
+2019-10-31 14:36:52,560 [main] WARN com.odoo.webutils.MyTestListener - CreateSalesTeam script is failed
+2019-10-31 14:36:52,918 [main] INFO com.odoo.webutils.MyTestListener - CreateSalesTeam Failed & Screenshot has been taken 
+2019-10-31 14:36:55,005 [main] INFO com.odoo.webutils.MyTestListener - Browser Closed
+2019-10-31 14:36:55,618 [main] INFO com.odoo.webutils.MyTestListener - ExcelReport generated
+2019-10-31 14:36:55,618 [main] INFO com.odoo.webutils.MyTestListener - Framework execution Time Taken: 41.0seconds
+2019-10-31 14:36:55,618 [main] INFO com.odoo.webutils.MyTestListener - Framework execution ends

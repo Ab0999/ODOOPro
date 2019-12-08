@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Suite]]">
+  <listeners>
+    <listener class-name="com.odoo.webutils.MyTestListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)(failed)">
+    <classes>
+      <class name="com.odoo.scripts.SalesTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="ShiftPipeline"/>
+          <include name="createCustomer"/>
+          <include name="postCondition"/>
+          <include name="CreatePipeline"/>
+          <include name="preCondition"/>
+        </methods>
+      </class> <!-- com.odoo.scripts.SalesTest -->
+    </classes>
+  </test> <!-- Test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Suite]] -->

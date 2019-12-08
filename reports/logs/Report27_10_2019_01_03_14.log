@@ -1,0 +1,38 @@
+2019-10-27 01:03:14,194 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-10-27 01:03:30,525 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-10-27 01:03:40,022 [main] INFO com.odoo.webutils.MyTestListener - validLoginTest script execution starts
+2019-10-27 01:04:07,308 [main] INFO com.odoo.webutils.MyTestListener - validLoginTest script is passed
+2019-10-27 01:04:08,355 [main] INFO com.odoo.webutils.MyTestListener - InvalidLoginTest script execution starts
+2019-10-27 01:04:13,288 [main] INFO com.odoo.webutils.MyTestListener - InvalidLoginTest script is passed
+2019-10-27 01:04:14,121 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script execution starts
+2019-10-27 01:05:01,559 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script is passed
+2019-10-27 01:05:02,374 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script execution starts
+2019-10-27 01:05:54,265 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script is passed
+2019-10-27 01:05:54,704 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script execution starts
+2019-10-27 01:06:30,977 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script is passed
+2019-10-27 01:06:31,740 [main] INFO com.odoo.webutils.MyTestListener - editCustomer script execution starts
+2019-10-27 01:07:28,008 [main] INFO com.odoo.webutils.MyTestListener - editCustomer script is passed
+2019-10-27 01:07:28,758 [main] INFO com.odoo.webutils.MyTestListener - createCustomerImport script execution starts
+2019-10-27 01:08:32,625 [main] INFO com.odoo.webutils.MyTestListener - createCustomerImport script is passed
+2019-10-27 01:08:33,307 [main] INFO com.odoo.webutils.MyTestListener - CreateDuplicateCustomer script execution starts
+2019-10-27 01:09:17,603 [main] INFO com.odoo.webutils.MyTestListener - CreateDuplicateCustomer script is passed
+2019-10-27 01:09:18,237 [main] INFO com.odoo.webutils.MyTestListener - DeleteDuplicateCustomer script execution starts
+2019-10-27 01:09:54,174 [main] INFO com.odoo.webutils.MyTestListener - DeleteDuplicateCustomer script is passed
+2019-10-27 01:09:54,946 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllCustomer script execution starts
+2019-10-27 01:10:20,227 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllCustomer script is passed
+2019-10-27 01:10:21,060 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllOpportunities script execution starts
+2019-10-27 01:10:55,526 [main] FATAL com.odoo.webutils.MyTestListener - no such element: Unable to locate element: {"method":"xpath","selector":"//button[contains(@class,'switch_list')]"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:64466}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 51fc21779cab63e5286142b9efb0aa80
+*** Element info: {Using=xpath, value=//button[contains(@class,'switch_list')]}
+2019-10-27 01:10:55,682 [main] WARN com.odoo.webutils.MyTestListener - DeleteAllOpportunities script is failed
+2019-10-27 01:10:57,005 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllOpportunities Failed & Screenshot has been taken 
+2019-10-27 01:11:00,338 [main] INFO com.odoo.webutils.MyTestListener - Browser Closed
+2019-10-27 01:11:00,650 [main] INFO com.odoo.webutils.MyTestListener - ExcelReport generated
+2019-10-27 01:11:00,650 [main] INFO com.odoo.webutils.MyTestListener - Framework execution Time Taken: 466.0seconds
+2019-10-27 01:11:00,650 [main] INFO com.odoo.webutils.MyTestListener - Framework execution ends

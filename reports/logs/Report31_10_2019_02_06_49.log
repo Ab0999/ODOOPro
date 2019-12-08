@@ -1,0 +1,27 @@
+2019-10-31 14:06:49,483 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-10-31 14:07:06,695 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-10-31 14:07:22,294 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script execution starts
+2019-10-31 14:08:36,100 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script is passed
+2019-10-31 14:08:36,743 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script execution starts
+2019-10-31 14:09:26,229 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script is passed
+2019-10-31 14:09:26,880 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script execution starts
+2019-10-31 14:10:02,117 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script is passed
+2019-10-31 14:10:02,716 [main] INFO com.odoo.webutils.MyTestListener - editCustomer script execution starts
+2019-10-31 14:10:58,574 [main] INFO com.odoo.webutils.MyTestListener - editCustomer script is passed
+2019-10-31 14:10:59,062 [main] INFO com.odoo.webutils.MyTestListener - createCustomerImport script execution starts
+2019-10-31 14:12:06,076 [main] INFO com.odoo.webutils.MyTestListener - createCustomerImport script is passed
+2019-10-31 14:12:07,375 [main] INFO com.odoo.webutils.MyTestListener - CreateDuplicateCustomer script execution starts
+2019-10-31 14:12:50,783 [main] INFO com.odoo.webutils.MyTestListener - CreateDuplicateCustomer script is passed
+2019-10-31 14:12:51,363 [main] INFO com.odoo.webutils.MyTestListener - DeleteDuplicateCustomer script execution starts
+2019-10-31 14:13:26,761 [main] INFO com.odoo.webutils.MyTestListener - DeleteDuplicateCustomer script is passed
+2019-10-31 14:13:27,508 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllCustomer script execution starts
+2019-10-31 14:13:53,271 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllCustomer script is passed
+2019-10-31 14:13:54,210 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllOpportunities script execution starts
+2019-10-31 14:14:26,881 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllOpportunities script is passed
+2019-10-31 14:14:27,522 [main] INFO com.odoo.webutils.MyTestListener - CreateSalesTeam script execution starts
+2019-10-31 14:14:32,336 [main] WARN com.odoo.webutils.MyTestListener - CreateSalesTeam script is failed
+2019-10-31 14:14:33,387 [main] INFO com.odoo.webutils.MyTestListener - CreateSalesTeam Failed & Screenshot has been taken 
+2019-10-31 14:14:36,292 [main] INFO com.odoo.webutils.MyTestListener - Browser Closed
+2019-10-31 14:14:36,780 [main] INFO com.odoo.webutils.MyTestListener - ExcelReport generated
+2019-10-31 14:14:36,781 [main] INFO com.odoo.webutils.MyTestListener - Framework execution Time Taken: 467.0seconds
+2019-10-31 14:14:36,782 [main] INFO com.odoo.webutils.MyTestListener - Framework execution ends

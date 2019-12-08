@@ -1,0 +1,10 @@
+2019-10-31 15:58:58,966 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-10-31 15:59:12,764 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-10-31 15:59:15,480 [main] INFO com.odoo.webutils.MyTestListener - validLoginTest script execution starts
+2019-10-31 15:59:49,730 [main] FATAL com.odoo.webutils.MyTestListener - Cannot locate an element using xpath=//input[@id='login']
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: driver.version: EventFiringWebDriver
+2019-10-31 15:59:50,151 [main] WARN com.odoo.webutils.MyTestListener - validLoginTest script is failed
+2019-10-31 15:59:50,251 [main] WARN com.odoo.webutils.MyTestListener - validLoginTest script is failed

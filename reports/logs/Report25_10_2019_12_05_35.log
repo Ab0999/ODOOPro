@@ -1,0 +1,6 @@
+2019-10-25 00:05:35,812 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-10-25 00:05:43,296 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-10-25 00:05:53,559 [main] INFO com.odoo.webutils.MyTestListener - validLoginTest script execution starts
+2019-10-25 00:06:11,411 [main] INFO com.odoo.webutils.MyTestListener - validLoginTest script is passed
+2019-10-25 00:06:12,343 [main] INFO com.odoo.webutils.MyTestListener - InvalidLoginTest script execution starts
+2019-10-25 00:06:15,321 [main] INFO com.odoo.webutils.MyTestListener - InvalidLoginTest script is passed

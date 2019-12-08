@@ -1,0 +1,22 @@
+2019-10-24 16:04:44,185 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-10-24 16:04:54,634 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-10-24 16:05:01,705 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script execution starts
+2019-10-24 16:06:04,633 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script is passed
+2019-10-24 16:06:05,432 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script execution starts
+2019-10-24 16:06:59,414 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script is passed
+2019-10-24 16:06:59,751 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script execution starts
+2019-10-24 16:07:30,093 [main] FATAL com.odoo.webutils.MyTestListener - no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='login']"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '192.168.0.124', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:62815}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6f2c1e24aa1bc563cf5593c77a85e8bf
+*** Element info: {Using=xpath, value=//input[@id='login']}
+2019-10-24 16:07:30,186 [main] WARN com.odoo.webutils.MyTestListener - ShiftPipeline script is failed
+2019-10-24 16:07:30,799 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipelineFailed & Screenshot has been taken 
+2019-10-24 16:07:33,499 [main] INFO com.odoo.webutils.MyTestListener - Browser Closed
+2019-10-24 16:07:34,180 [main] INFO com.odoo.webutils.MyTestListener - ExcelReport generated
+2019-10-24 16:07:34,180 [main] INFO com.odoo.webutils.MyTestListener - Framework execution Time Taken: 170.0seconds
+2019-10-24 16:07:34,180 [main] INFO com.odoo.webutils.MyTestListener - Framework execution ends

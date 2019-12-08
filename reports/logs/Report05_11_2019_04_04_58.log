@@ -1,0 +1,60 @@
+2019-11-05 16:05:00,228 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-11-05 16:05:01,674 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-11-05 16:05:14,541 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script execution starts
+2019-11-05 16:06:31,592 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script is passed
+2019-11-05 16:06:33,205 [main] INFO com.odoo.webutils.MyTestListener - editCustomer script execution starts
+2019-11-05 16:07:02,891 [main] FATAL com.odoo.webutils.MyTestListener - element click intercepted: Element <button accesskey="a" class="btn btn-primary o_form_button_edit" type="button">...</button> is not clickable at point (39, 106). Other element would receive the click: <div class="blockUI blockOverlay" style="z-index: 1100; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.033776; cursor: default; position: fixed;"></div>
+  (Session info: chrome=78.0.3904.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.87, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61557}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 45eca107980de890e90872546579e14a
+2019-11-05 16:07:02,920 [main] WARN com.odoo.webutils.MyTestListener - editCustomer script is failed
+2019-11-05 16:07:03,619 [main] INFO com.odoo.webutils.MyTestListener - editCustomer Failed & Screenshot has been taken 
+2019-11-05 16:07:05,713 [main] INFO com.odoo.webutils.MyTestListener - createCustomerImport script execution starts
+2019-11-05 16:08:16,544 [main] INFO com.odoo.webutils.MyTestListener - createCustomerImport script is passed
+2019-11-05 16:08:17,142 [main] INFO com.odoo.webutils.MyTestListener - CreateDuplicateCustomer script execution starts
+2019-11-05 16:08:59,841 [main] INFO com.odoo.webutils.MyTestListener - CreateDuplicateCustomer script is passed
+2019-11-05 16:09:00,473 [main] INFO com.odoo.webutils.MyTestListener - DeleteDuplicateCustomer script execution starts
+2019-11-05 16:09:59,508 [main] FATAL com.odoo.webutils.MyTestListener - element click intercepted: Element <a aria-expanded="false" class="dropdown-toggle" data-display="static" data-toggle="dropdown" href="#" role="button">...</a> is not clickable at point (1264, 23). Other element would receive the click: <div class="blockUI blockOverlay" style="z-index: 1100; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.6; cursor: wait; position: fixed;"></div>
+  (Session info: chrome=78.0.3904.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.87, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61557}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 45eca107980de890e90872546579e14a
+2019-11-05 16:09:59,512 [main] WARN com.odoo.webutils.MyTestListener - DeleteDuplicateCustomer script is failed
+2019-11-05 16:09:59,865 [main] INFO com.odoo.webutils.MyTestListener - DeleteDuplicateCustomer Failed & Screenshot has been taken 
+2019-11-05 16:10:10,813 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script execution starts
+2019-11-05 16:10:30,060 [main] FATAL com.odoo.webutils.MyTestListener - element click intercepted: Element <button class="btn btn-primary o-kanban-button-new" type="button" data-accesskey="c">...</button> is not clickable at point (49, 106). Other element would receive the click: <div class="blockUI blockOverlay" style="z-index: 1100; border: none; margin: 0px; padding: 0px; width: 100%; height: 100%; top: 0px; left: 0px; background-color: rgb(0, 0, 0); opacity: 0.6; cursor: wait; position: fixed;"></div>
+  (Session info: chrome=78.0.3904.87)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.87, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61557}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 45eca107980de890e90872546579e14a
+2019-11-05 16:10:30,065 [main] WARN com.odoo.webutils.MyTestListener - CreatePipeline script is failed
+2019-11-05 16:10:30,471 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline Failed & Screenshot has been taken 
+2019-11-05 16:10:30,906 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script execution starts
+2019-11-05 16:10:30,910 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script is skipped
+2019-11-05 16:10:32,022 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllCustomer script execution starts
+2019-11-05 16:10:56,368 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllCustomer script is passed
+2019-11-05 16:10:56,975 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllOpportunities script execution starts
+2019-11-05 16:11:33,019 [main] FATAL com.odoo.webutils.MyTestListener - no such element: Unable to locate element: {"method":"xpath","selector":"(//th//div[contains(@class,'custom-checkbox')])[1]"}
+  (Session info: chrome=78.0.3904.87)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 78.0.3904.87, chrome: {chromedriverVersion: 78.0.3904.70 (edb9c9f3de024..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:61557}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 45eca107980de890e90872546579e14a
+*** Element info: {Using=xpath, value=(//th//div[contains(@class,'custom-checkbox')])[1]}
+2019-11-05 16:11:33,022 [main] WARN com.odoo.webutils.MyTestListener - DeleteAllOpportunities script is failed
+2019-11-05 16:11:33,520 [main] INFO com.odoo.webutils.MyTestListener - DeleteAllOpportunities Failed & Screenshot has been taken 
+2019-11-05 16:11:35,751 [main] INFO com.odoo.webutils.MyTestListener - CreateSalesTeam script execution starts
+2019-11-05 16:13:45,540 [main] INFO com.odoo.webutils.MyTestListener - CreateSalesTeam script is passed
+2019-11-05 16:13:47,950 [main] INFO com.odoo.webutils.MyTestListener - Browser Closed
+2019-11-05 16:13:48,340 [main] INFO com.odoo.webutils.MyTestListener - ExcelReport generated
+2019-11-05 16:13:48,342 [main] INFO com.odoo.webutils.MyTestListener - Framework execution Time Taken: 544.0seconds
+2019-11-05 16:13:48,343 [main] INFO com.odoo.webutils.MyTestListener - Framework execution ends

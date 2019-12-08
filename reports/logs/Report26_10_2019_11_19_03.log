@@ -1,0 +1,22 @@
+2019-10-26 23:19:03,447 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-10-26 23:19:12,680 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-10-26 23:19:18,286 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script execution starts
+2019-10-26 23:20:18,418 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script is passed
+2019-10-26 23:20:19,389 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script execution starts
+2019-10-26 23:21:10,751 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script is passed
+2019-10-26 23:21:11,310 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script execution starts
+2019-10-26 23:22:15,795 [main] FATAL com.odoo.webutils.MyTestListener - no such element: Unable to locate element: {"method":"xpath","selector":"//div[@data-id='3']//div//div//span[text()='86-Mobile Phones']"}
+  (Session info: chrome=77.0.3865.120)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:58426}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 6303704cb449f8b73ea4b3bee82813b9
+*** Element info: {Using=xpath, value=//div[@data-id='3']//div//div//span[text()='86-Mobile Phones']}
+2019-10-26 23:22:15,908 [main] WARN com.odoo.webutils.MyTestListener - ShiftPipeline script is failed
+2019-10-26 23:22:16,662 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline Failed & Screenshot has been taken 
+2019-10-26 23:22:19,281 [main] INFO com.odoo.webutils.MyTestListener - Browser Closed
+2019-10-26 23:22:19,596 [main] INFO com.odoo.webutils.MyTestListener - ExcelReport generated
+2019-10-26 23:22:19,596 [main] INFO com.odoo.webutils.MyTestListener - Framework execution Time Taken: 196.0seconds
+2019-10-26 23:22:19,600 [main] INFO com.odoo.webutils.MyTestListener - Framework execution ends

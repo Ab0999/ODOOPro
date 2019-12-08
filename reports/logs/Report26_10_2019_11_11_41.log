@@ -1,0 +1,12 @@
+2019-10-26 23:11:41,673 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-10-26 23:11:52,811 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-10-26 23:11:59,225 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script execution starts
+2019-10-26 23:13:01,166 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script is passed
+2019-10-26 23:13:02,570 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script execution starts
+2019-10-26 23:13:54,797 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script is passed
+2019-10-26 23:13:55,430 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script execution starts
+2019-10-26 23:14:13,885 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script is passed
+2019-10-26 23:14:16,611 [main] INFO com.odoo.webutils.MyTestListener - Browser Closed
+2019-10-26 23:14:18,187 [main] INFO com.odoo.webutils.MyTestListener - ExcelReport generated
+2019-10-26 23:14:18,188 [main] INFO com.odoo.webutils.MyTestListener - Framework execution Time Taken: 156.0seconds
+2019-10-26 23:14:18,188 [main] INFO com.odoo.webutils.MyTestListener - Framework execution ends

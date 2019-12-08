@@ -1,0 +1,16 @@
+2019-10-27 00:13:31,396 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-10-27 00:13:40,952 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-10-27 00:13:46,010 [main] INFO com.odoo.webutils.MyTestListener - validLoginTest script execution starts
+2019-10-27 00:14:05,369 [main] INFO com.odoo.webutils.MyTestListener - validLoginTest script is passed
+2019-10-27 00:14:06,171 [main] INFO com.odoo.webutils.MyTestListener - InvalidLoginTest script execution starts
+2019-10-27 00:14:09,912 [main] INFO com.odoo.webutils.MyTestListener - InvalidLoginTest script is passed
+2019-10-27 00:14:10,417 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script execution starts
+2019-10-27 00:14:58,746 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script is passed
+2019-10-27 00:15:00,784 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script execution starts
+2019-10-27 00:15:51,360 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script is passed
+2019-10-27 00:15:51,786 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script execution starts
+2019-10-27 00:16:26,288 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script is passed
+2019-10-27 00:16:28,286 [main] INFO com.odoo.webutils.MyTestListener - Browser Closed
+2019-10-27 00:16:28,716 [main] INFO com.odoo.webutils.MyTestListener - ExcelReport generated
+2019-10-27 00:16:28,717 [main] INFO com.odoo.webutils.MyTestListener - Framework execution Time Taken: 177.0seconds
+2019-10-27 00:16:28,717 [main] INFO com.odoo.webutils.MyTestListener - Framework execution ends

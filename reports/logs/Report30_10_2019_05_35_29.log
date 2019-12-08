@@ -1,0 +1,19 @@
+2019-10-30 17:35:30,762 [main] INFO com.odoo.webutils.MyTestListener - Framework execution starts
+2019-10-30 17:35:41,295 [main] INFO com.odoo.webutils.MyTestListener - Browser Launched and maximized
+2019-10-30 17:35:57,260 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script execution starts
+2019-10-30 17:36:59,745 [main] INFO com.odoo.webutils.MyTestListener - createCustomer script is passed
+2019-10-30 17:37:00,330 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script execution starts
+2019-10-30 17:37:51,637 [main] INFO com.odoo.webutils.MyTestListener - CreatePipeline script is passed
+2019-10-30 17:37:52,265 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script execution starts
+2019-10-30 17:38:27,683 [main] INFO com.odoo.webutils.MyTestListener - ShiftPipeline script is passed
+2019-10-30 17:38:28,390 [main] INFO com.odoo.webutils.MyTestListener - editCustomer script execution starts
+2019-10-30 17:38:42,432 [main] FATAL com.odoo.webutils.MyTestListener - chrome not reachable
+  (Session info: chrome=77.0.3865.120)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'DESKTOP-G24M896', ip: '172.20.10.6', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 77.0.3865.120, chrome: {chromedriverVersion: 77.0.3865.40 (f484704e052e0..., userDataDir: C:\Users\WELCOME\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:49959}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 9bc503ee0c13c5bbaedb72c3b8294966
+*** Element info: {Using=xpath, value=//li//a[contains(@class,'dropdown')][contains(text(),'Sales')]}
+2019-10-30 17:38:42,482 [main] WARN com.odoo.webutils.MyTestListener - editCustomer script is failed
+2019-10-30 17:38:48,637 [main] WARN com.odoo.webutils.MyTestListener - editCustomer script is failed

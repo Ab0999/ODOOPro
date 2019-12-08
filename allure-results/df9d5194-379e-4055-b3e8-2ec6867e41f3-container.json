@@ -1,0 +1,1 @@
+{"uuid":"df9d5194-379e-4055-b3e8-2ec6867e41f3","name":"com.odoo.scripts.SalesTest","children":["0a1ccc74-2d2a-42ff-9c47-76b3e02d7edf"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1572694630283,"stop":1572694630922}],"afters":[],"links":[],"start":1572694626742,"stop":1572694679418}
